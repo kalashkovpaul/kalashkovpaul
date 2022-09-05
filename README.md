@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashkovpaul&label=Profile%20views&color=0e75b6&style=flat" alt="Paul Kalashkov" /> </p>
 
 
-* <h3 align="left">Learning Frontend and currently looking for and internship</a> </h3>
+* <h3 align="left">Currently working as Frontend developer in VK Mail.ru</a> </h3>
 
 * <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7 (2nd year);</h3>
 
