@@ -5,7 +5,7 @@
 
 * <h3 align="left">Currently working as Frontend developer in VK Mail.ru</a> </h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7 (2nd year);</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7 (3rd year);</h3>
 
 * <h3 align="left">Student of <a href="https://park.vk.company/" >VK Technopark</a>.</h3>
 
