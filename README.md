@@ -5,9 +5,9 @@
 
 * <h3 align="left">Currently working as Frontend developer in VK Mail.ru</a> </h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7 (3rd year);</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7 (4th year);</h3>
 
-* <h3 align="left">Student of <a href="https://park.vk.company/" >VK Technopark</a>.</h3>
+* <h3 align="left">Graduate of <a href="https://park.vk.company/" >VK Technopark (VK Education since 2022)</a>, 2 years.</h3>
 
 * <h3 align="left"> CV (actual 05.01.2022) - <a href="https://drive.google.com/file/d/1jpZxqnzbHKNF8XsZlH9kj4mRTqe2vCWd/view?usp=sharing">link</a>.</h3>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://vk.com/kalashkovpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="dmitry__varin" height="30" width="40" /></a>
+  <a href="https://vk.com/kalashkovpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="Paul Kalashkov" height="30" width="40" /></a>
 <a href="https://t.me/kalashkovpaul" target="blank"><img align="center" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
 
 Gmail: <a href="kalashkovpaul@gmail.com"><b>kalashkovpaul@gmail.com</b></a>
