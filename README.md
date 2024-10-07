@@ -11,7 +11,7 @@
 
 * <h3 align="left"> CV (actual 05.01.2022) - <a href="https://drive.google.com/file/d/1jpZxqnzbHKNF8XsZlH9kj4mRTqe2vCWd/view?usp=sharing">link</a>.</h3>
 
-* <h3 align="left"> CV - Russian - (actual 05.01.2022) - <a href="https://drive.google.com/file/d/1WANLEC96V7peYostM8CSZzoOgFMOK6m0/view?usp=sharing">link</a>.</h3>
+* <h3 align="left"> CV - Russian - (actual 07.10.2024) - <a href="https://drive.google.com/file/d/13OorIwMTMQLu5yoOSj3GrWmyxffQuNQA/view?usp=drivesdk">link</a>.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
