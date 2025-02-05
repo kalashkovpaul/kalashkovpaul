@@ -1,9 +1,9 @@
-<h1 align="center">Greetings! I'm Paul Kalashkov, and I'm looking for a job!</h1>
+<h1 align="center">Greetings! I'm Paul Kalashkov!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashkovpaul&label=Profile%20views&color=0e75b6&style=flat" alt="Paul Kalashkov" /> </p>
 
 
-* <h3 align="left">Currently working as Frontend Engineer in VK Mail.ru</a>.</h3>
+* <h3 align="left">Currently working as Frontend Engineer in Yandex</a>.</h3>
 
 * <h3 align="left">Graduate of <a href="https://www.bmstu.ru/" >BMSTU</a> <a href="https://iu7.bmstu.ru/" >ICS7</a>. Bachelor degree in Sofrtware Engineering and Computer Science, magna cum laude (with great distinction), 2020 - 2024.</h3>
 
